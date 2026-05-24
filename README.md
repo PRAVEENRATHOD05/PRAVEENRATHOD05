@@ -1,197 +1,150 @@
+<div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=PRAVEENRATHOD05&label=Profile%20views&color=0e75b6&style=flat)
 
-I want you to transform my GitHub profile README.
-Do NOT ask me any questions. Just execute everything.
+# Hi, I'm Praveen Rathod 👋
 
-MY DETAILS:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+AI+Developer;Building+Scalable+AI+Systems;Privacy-First+LLM+Applications;Startup+Enthusiast+%7C+Content+Creator)](https://git.io/typing-svg)
 
-* Name: Praveen Rathod
-* Role: AI Engineer | AI Developer | Startup Enthusiast | Content Creator
-* Experience: AI Engineer Intern at Vyne AI
-* Tech Stack: C++, Python, JavaScript, TypeScript, React, Node.js, Express.js, FastAPI, MongoDB, MySQL, Pinecone, LangChain, LangGraph, LLaMA, Mistral, GPT Models, RAG, AWS, GCP
-* GitHub: https://github.com/PRAVEENRATHOD05
-* YouTube: https://youtube.com/@ai.forfuture
-* Instagram: https://instagram.com/ai.forfuture
-* LinkedIn: https://linkedin.com/in/rathod-praveen-kumar
-* Portfolio: YOUR_PORTFOLIO_LINK
-* Email: [praveenofficial783@gmail.com](mailto:praveenofficial783@gmail.com)
-* Location: Hyderabad, India
-* Achievements:
+Building scalable AI systems, intelligent automations, and privacy-first LLM applications.
 
-  * Solved 400+ LeetCode problems in C++
-  * 3-Star CodeChef Programmer
-  * Built AI community with 160K+ followers
-  * Achieved 200M+ organic views
-  * Participated in Spike AI Hackathon at IIT (ISM) Dhanbad
+</div>
 
-INSTRUCTIONS — DO ALL OF THIS AUTOMATICALLY:
+---
 
-1. Go to my GitHub profile repository
-   (github.com/PRAVEENRATHOD05/PRAVEENRATHOD05)
-   Open the README.md file
-   Click Edit (pencil icon)
+## 👨‍💻 About Me
 
-2. Delete ALL existing content
+I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. Specializing in **RAG systems**, **offline AI assistants**, and **LLM applications** with a startup mindset. As a content creator with a growing audience, I'm committed to advancing AI literacy and building communities.
 
-3. Create and paste this complete premium README:
+✨ **Highlights:**
+- 🧠 400+ LeetCode problems solved in C++
+- ⭐ 3-Star CodeChef Programmer  
+- 🌍 160K+ followers across AI community platforms
+- 📊 200M+ organic views on content
+- 🏆 Spike AI Hackathon Participant (IIT ISM Dhanbad)
 
-SECTION A: ANIMATED HEADER
+---
 
-* Add a premium animated hero section
-* Add animated typing effect using readme-typing-svg
-* Add a professional AI Engineer tagline
-* Add centered layout
-* Add wave/banner aesthetic
-* Add GitHub profile views counter badge at top
-* Mention:
-  “Building scalable AI systems, intelligent automations, and privacy-first LLM applications.”
+## 💼 Featured Experience
 
-SECTION B: ABOUT ME
+### 🤖 AI Engineer — Vyne AI
+**Remote, USA | May 2025 – Oct 2025**
 
-* Write a strong professional intro
-* Mention:
+- Built offline, privacy-first AI assistant systems
+- Integrated local LLaMA and Mistral inference pipelines
+- Implemented vector-based memory systems
+- Designed deterministic reasoning workflows
+- Supported backend orchestration and monitoring systems
 
-  * AI Engineering
-  * RAG systems
-  * Offline AI assistants
-  * LLM applications
-  * Startup mindset
-  * Content creation background
-* Add 4–6 concise bullet points
-* Mention:
+---
 
-  * 400+ LeetCode problems
-  * 3-Star CodeChef rating
-  * 160K+ social audience
-* Keep tone modern, confident, and recruiter-friendly
-* Use minimal relevant emojis
+## 🚀 Featured Projects
 
-SECTION C: FEATURED EXPERIENCE
-Add:
+| Project | Description |
+|---------|-------------|
+| **Document Intelligence & Semantic Search** | RAG-based document QA system with semantic search, embeddings, and vector retrieval pipelines with REST API integration |
+| **Chat with Codebase (RAG)** | AI-powered GitHub codebase understanding with semantic code chunking, vector database retrieval, and interactive developer chat interface |
+| **AI Project Planning Chatbot** | LLM-powered project guidance system with structured technical roadmap generation and prompt orchestration workflows |
+| **Offline AI Assistant — Vyne AI** | Privacy-first offline AI assistant with local LLM inference, vector-based memory, and deterministic reasoning |
 
-AI Engineer — Vyne AI
-Remote, USA | May 2025 – Oct 2025
+---
 
-Include:
+## 🛠️ Tech Stack
 
-* Built offline privacy-first AI assistant systems
-* Integrated local LLaMA and Mistral inference pipelines
-* Worked with vector-based memory systems
-* Implemented deterministic reasoning workflows
-* Supported backend orchestration and monitoring systems
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-SECTION D: FEATURED PROJECTS
-Create professional project cards for:
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-1. Document Intelligence & Semantic Search
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-* RAG-based document QA system
-* Semantic search and embeddings
-* Vector retrieval pipelines
-* REST API integration
+### AI/ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0085CA?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF6B35?style=for-the-badge&logoColor=white)
 
-2. Chat with Codebase (RAG)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0085CA?style=for-the-badge&logoColor=white)
 
-* AI-powered GitHub codebase understanding
-* Semantic code chunking
-* Vector database retrieval
-* Interactive developer chat interface
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-3. AI Project Planning & Guidance Chatbot
+---
 
-* LLM-powered project guidance system
-* Structured technical roadmap generation
-* Prompt orchestration workflows
-* Flow-style AI explanations
+## 📊 GitHub Stats
 
-4. Offline AI Assistant — Vyne AI
+<div align="center">
 
-* Privacy-first offline AI assistant
-* Local LLM inference
-* Vector-based memory
-* Deterministic reasoning system
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAVEENRATHOD05&theme=tokyonight&show_icons=true&hide_border=true)
 
-Use clean markdown formatting.
-Use modern project cards or tables.
-Use icons where appropriate.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRAVEENRATHOD05&theme=tokyonight&hide_border=true)
 
-SECTION E: TECH STACK
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVEENRATHOD05&theme=tokyonight&layout=compact&hide_border=true)
 
-* Add shields.io badges for ALL technologies
-* Use colored badges with logos
-* Organize into:
+</div>
 
-  * Languages
-  * Frontend
-  * Backend
-  * AI / ML
-  * Databases
-  * Cloud & Tools
-* Keep badge layout clean and professional
-* Avoid excessive clutter
+---
 
-SECTION F: SOCIAL MEDIA LINKS
+## 🏆 GitHub Trophies
 
-* Add clickable badges for:
+<div align="center">
 
-  * GitHub
-  * LinkedIn
-  * Instagram
-  * YouTube
-  * Email
-* Use official logos/colors
-* Make all badges clickable
+![Trophy](https://github-profile-trophy.vercel.app/?username=PRAVEENRATHOD05&theme=onedark&no-frame=false&no-bg=false&margin-w=15&column=7)
 
-SECTION G: GITHUB STATS
+</div>
 
-* Add GitHub Stats Card (anuraghazra/github-readme-stats)
-* Add GitHub Streak Stats (github-readme-streak-stats)
-* Add Top Languages Card
-* Theme: tokyonight
-* Keep layout visually balanced
+---
 
-SECTION H: GITHUB TROPHIES
+## 📈 Activity Graph
 
-* Add GitHub Profile Trophy (ryo-ma/github-profile-trophy)
-* Theme: onedark
-* Keep it minimal and clean
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRAVEENRATHOD05&theme=tokyonight&hide_border=true)
 
-SECTION I: ACTIVITY GRAPH
+---
 
-* Add GitHub contribution graph
-* Add activity graph
-* Theme: tokyonight
+## 🎯 Achievements
 
-SECTION J: ACHIEVEMENTS
-Add a clean achievements section including:
+| Achievement | Details |
+|-------------|---------|
+| 🔢 **LeetCode** | 400+ problems solved in C++ |
+| 👨‍💻 **CodeChef** | 3-Star Programmer |
+| 📱 **Community** | 160K+ followers |
+| 📺 **Content** | 200M+ organic views |
+| 🏅 **Hackathon** | Spike AI Hackathon Participant |
 
-* 400+ LeetCode problems solved
-* 3-Star CodeChef Programmer
-* 160K+ AI community followers
-* 200M+ organic views
-* Spike AI Hackathon participant
+---
 
-SECTION K: FOOTER
+## 🔗 Connect With Me
 
-* Add “Let’s Connect” section
-* Include all social links
-* Add professional AI-focused closing line
-* Example tone:
-  “Building the future with AI, one intelligent system at a time.”
+<div align="center">
 
-4. After pasting all content, click Commit changes
-   to save automatically
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRAVEENRATHOD05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rathod-praveen-kumar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ai.forfuture)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ai.forfuture)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenofficial783@gmail.com)
 
-RULES:
+</div>
 
-* Do NOT ask any questions. Just do it.
-* Do NOT stop in the middle. Complete everything.
-* Use my actual GitHub username in all URLs.
-* Make sure all badge URLs are correct.
-* Use TokyoNight theme consistently.
-* Make it modern, clean, premium, and recruiter-friendly.
-* Avoid visual clutter.
-* Prioritize professionalism over flashy design.
-* Generate COMPLETE README.md code only.
+---
 
+<div align="center">
 
+### 💡 "Building the future with AI, one intelligent system at a time."
+
+**Let's build something amazing together!** 🚀
+
+</div>
